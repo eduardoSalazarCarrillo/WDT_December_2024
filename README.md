@@ -1,6 +1,7 @@
-# Contacto 
-https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/
-https://www.instagram.com/salazareduardo21/
+# Contacto
+- **LinkedIn**: [Eduardo Salazar Carrillo](https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/)
+- **Instagram**: [salazareduardo21](https://www.instagram.com/salazareduardo21/)
+
 
 # Descripciones de Enlaces
 
