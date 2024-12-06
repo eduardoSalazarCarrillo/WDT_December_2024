@@ -1,3 +1,7 @@
+# Contacto 
+https://www.linkedin.com/in/eduardo-salazar-carrillo-1984-eric-blair/
+https://www.instagram.com/salazareduardo21/
+
 # Descripciones de Enlaces
 
 ## [Kubernetes Presentation - Google Slides](https://docs.google.com/presentation/d/1zrfVlE5r61ZNQrmXKx5gJmBcXnoa_WerHEnTxu5SMco/edit#slide=id.g3b1e3de78f_5_5)
